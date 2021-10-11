@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/findservices/static/css/main.184da571.chunk.css",
-    "main.js": "/findservices/static/js/main.0c72d282.chunk.js",
-    "main.js.map": "/findservices/static/js/main.0c72d282.chunk.js.map",
-    "runtime-main.js": "/findservices/static/js/runtime-main.24e239fa.js",
-    "runtime-main.js.map": "/findservices/static/js/runtime-main.24e239fa.js.map",
-    "static/js/2.3870a179.chunk.js": "/findservices/static/js/2.3870a179.chunk.js",
-    "static/js/2.3870a179.chunk.js.map": "/findservices/static/js/2.3870a179.chunk.js.map",
-    "static/js/3.8cfa2b23.chunk.js": "/findservices/static/js/3.8cfa2b23.chunk.js",
-    "static/js/3.8cfa2b23.chunk.js.map": "/findservices/static/js/3.8cfa2b23.chunk.js.map",
+    "main.js": "/findservices/static/js/main.d1a63397.chunk.js",
+    "main.js.map": "/findservices/static/js/main.d1a63397.chunk.js.map",
+    "runtime-main.js": "/findservices/static/js/runtime-main.d4b6210e.js",
+    "runtime-main.js.map": "/findservices/static/js/runtime-main.d4b6210e.js.map",
+    "static/js/2.5ed8d2b8.chunk.js": "/findservices/static/js/2.5ed8d2b8.chunk.js",
+    "static/js/2.5ed8d2b8.chunk.js.map": "/findservices/static/js/2.5ed8d2b8.chunk.js.map",
+    "static/js/3.9ef61dcb.chunk.js": "/findservices/static/js/3.9ef61dcb.chunk.js",
+    "static/js/3.9ef61dcb.chunk.js.map": "/findservices/static/js/3.9ef61dcb.chunk.js.map",
     "index.html": "/findservices/index.html",
     "static/css/main.184da571.chunk.css.map": "/findservices/static/css/main.184da571.chunk.css.map",
-    "static/js/2.3870a179.chunk.js.LICENSE.txt": "/findservices/static/js/2.3870a179.chunk.js.LICENSE.txt",
+    "static/js/2.5ed8d2b8.chunk.js.LICENSE.txt": "/findservices/static/js/2.5ed8d2b8.chunk.js.LICENSE.txt",
     "static/media/Work only with the best.357f9345.png": "/findservices/static/media/Work only with the best.357f9345.png",
     "static/media/farming.1869c4c6.png": "/findservices/static/media/farming.1869c4c6.png",
     "static/media/landing-page.a049e32f.jpg": "/findservices/static/media/landing-page.a049e32f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.24e239fa.js",
-    "static/js/2.3870a179.chunk.js",
+    "static/js/runtime-main.d4b6210e.js",
+    "static/js/2.5ed8d2b8.chunk.js",
     "static/css/main.184da571.chunk.css",
-    "static/js/main.0c72d282.chunk.js"
+    "static/js/main.d1a63397.chunk.js"
   ]
 }
